@@ -25,3 +25,9 @@ body{
 html{
 background-color: #ffffff;
 }
+center {
+  margin: auto;
+  width: 60%;
+  text-align: center;
+  padding: 10px;
+  border-radius: 20px;}
