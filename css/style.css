@@ -1,6 +1,7 @@
 
 body{
   font-family: 'Raleway', sans-serif;
+  background-color: gray;
 }
 .top{
   margin-top: 20px;
@@ -18,10 +19,12 @@ body{
   padding-right: 5px;
 }
 .border{
+  border-radius: 50px 50px;
   width: auto; 
   height: auto; 
-  border: 2px solid grey;
+  border: 5px solid rgb(0, 0, 0);
   margin-left: 300px;
   margin-right: 300px;
-  margin-top: 50px
+  margin-top: 50px;
+  background: linear-gradient(to right, #F6EFD2, #CEAD78);
 }
