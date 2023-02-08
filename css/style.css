@@ -2,6 +2,13 @@
 body{
   font-family: 'Raleway', sans-serif;
 }
-.center{
-  margin: auto;
+.top{
+  margin-top: 20px;
+}
+.top1{
+  padding-left: 100px ;
+  padding-right: 100px;
+}
+.top2{
+  margin-top: 50px;
 }
