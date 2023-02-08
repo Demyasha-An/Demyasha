@@ -26,4 +26,10 @@ body{
   margin-left: 30%;
   margin-right: 30%;
   background: linear-gradient(to right, #6dacff, #9678ce);
+  -webkit-box-shadow: 20px 25px 10px 0px rgba(155, 125, 212, 0.5);
+  -moz-box-shadow: 20px 25px 10px 0px rgba(155, 125, 212, 0.5);
+  box-shadow: 20px 25px 10px 0px rgba(155, 125, 212, 0.5);
+}
+.center{
+  text-align: center;
 }
