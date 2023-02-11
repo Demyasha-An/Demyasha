@@ -33,3 +33,15 @@ body{
 .center{
   text-align: center;
 }
+.scale{
+  transition: 1s;
+}
+.scale:hover{
+  transform: scale(1.2);
+}
+.scale1{
+  transition: 1s;
+}
+.scale1:hover{
+  transform: scale(1.1);
+}
